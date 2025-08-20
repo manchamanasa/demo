@@ -16,7 +16,7 @@ class Bowler{
 	}
 
 	public Bowler(String name, int wickets, int matches, int balls_bowled, int runs_conceded) {
-		super();
+		//super();
 		this.name = name;
 		this.wickets = wickets;
 		this.matches = matches;
